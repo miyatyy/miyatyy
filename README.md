@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp9X1pU0mRFAm6WvP1/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/efg5c2250xJ0Y0p13A/giphy.gif" width="500" />
 </p>
 
 <h1 align="center">✨ Hi, I'm Nurmiyaty! ✨</h1>
@@ -23,7 +23,7 @@
 ### 🌸 About Me
 - 👩‍💻 **Education:** IT Student yang sedang fokus belajar pengembangan aplikasi mobile.
 - 📱 **Current Project:** Sedang merancang **My Sholat App** dengan sentuhan desain yang estetik.
-- 🎨 **Interests:** Sangat menyukai perpaduan warna Pink, desain yang bersih, dan hal-hal lucu (kawaii).
+- 🎨 **Interests:** Sangat menyukai perpaduan warna Pink, desain yang bersih, dan bunga sakura.
 - ☁️ **Goal:** Ingin menjadi Developer yang bisa menciptakan aplikasi yang bermanfaat sekaligus cantik secara visual.
 
 ---
@@ -45,7 +45,7 @@
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
 | 🕌 **My Sholat** | Aplikasi jadwal sholat & kiblat dengan UI Pink yang cantik. | ![Kotlin](https://img.shields.io/badge/-Kotlin-F18DB3) |
-| 🎓 **UAS Final** | Project akhir mata kuliah pemrograman mobile. | ![Android](https://img.shields.io/badge/-Android-FFB6C1) |
+| 🎓 **UAS Final Project** | Project akhir mata kuliah pemrograman mobile. | ![Android](https://img.shields.io/badge/-Android-FFB6C1) |
 
 </div>
 
@@ -59,10 +59,6 @@
   <a href="https://instagram.com/miyatyy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6Z3J6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmRwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7iM8FMEU24/giphy.gif" width="150" />
 </p>
 
 <p align="center">
