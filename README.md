@@ -29,13 +29,7 @@
 
 ---
 
-### 🚀 My Stats (Pink Edition)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miyatyy&show_icons=true&theme=rose&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyatyy&layout=compact&theme=rose&hide_border=false" height="170" />
-</p>
 
----
 
 ### 🛠 Tech Stack
 <p align="left">
