@@ -48,13 +48,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header" alt="Pink Waves Header"/>
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1578985545067-699292b7dceb?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Pink Cake" width="300"/>
-  <img src="https://images.unsplash.com/photo-1621303837174-89787e177524?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Cupcakes" width="300"/>
-  <img src="https://images.unsplash.com/photo-1542826433-27a3c79c13b2?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Donuts" width="300"/>
+  <img src="https://img.freepik.com/free-photo/delicious-pink-cake-with-macarons_23-2148835057.jpg" alt="Pink Cake" width="250"/>
+  <img src="https://img.freepik.com/free-photo/side-view-cupcakes-with-pink-frosting-sprinkles_23-2148835081.jpg" alt="Cupcakes" width="250"/>
+  <img src="https://img.freepik.com/free-photo/sweet-donuts-with-pink-glaze_23-2148835065.jpg" alt="Donuts" width="250"/>
 </p>
 
 <p align="center">
