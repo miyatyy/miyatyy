@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header&text=Welcome%20to%20Miyatyy%20Space&fontSize=40&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp9X1pU0mRFAm6WvP1/giphy.gif" width="450" />
 </p>
 
