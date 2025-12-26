@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Nurmiyaty! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKMGpxVfFvT8S64/giphy.gif" width="35">
 
-<!--
-**miyatyy/miyatyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌸 Mobile App Enthusiast | IT Student | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎀 About Me
+- ✨ Currently building **My Sholat App** with Kotlin & Jetpack Compose.
+- 🎨 Love creating aesthetic and functional mobile interfaces.
+- 📍 Based in Indonesia.
+
+---
+
+### 🚀 My Stats (Animated Pink Theme)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=miyatyy&show_icons=true&theme=rose&hide_border=false&count_private=true" alt="miyatyy GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyatyy&layout=compact&theme=rose&hide_border=false" alt="miyatyy Top Languages" height="170" />
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-F18DB3?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-FFB6C1?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-DB7093?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💌 Let's Connect
+<p align="left">
+<a href="mailto:nurmiyaty.14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/miyatyy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" />
+</p>
