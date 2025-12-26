@@ -11,13 +11,7 @@
 
 ---
 
-### 🚀 My Stats (Animated Pink Theme)
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=miyatyy&show_icons=true&theme=rose&hide_border=false&count_private=true" alt="miyatyy GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyatyy&layout=compact&theme=rose&hide_border=false" alt="miyatyy Top Languages" height="170" />
-</p>
 
----
 
 ### 🛠 Tech Stack
 <p align="left">
