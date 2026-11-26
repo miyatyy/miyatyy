@@ -1,0 +1,25 @@
+<svg width="850" height="150" viewBox="0 0 850 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="150" rx="14" fill="#FAF5F0" stroke="#D7B89C" stroke-width="1.5" />
+
+  <g font-family="Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="95" y="18" width="120" height="30" rx="8" fill="#D7B89C" /><text x="155" y="38" fill="#4A3525">Flutter</text>
+    <rect x="227" y="18" width="120" height="30" rx="8" fill="#EDE0D4" /><text x="287" y="38" fill="#4A3525">Dart</text>
+    <rect x="359" y="18" width="120" height="30" rx="8" fill="#D7B89C" /><text x="419" y="38" fill="#4A3525">React</text>
+    <rect x="491" y="18" width="120" height="30" rx="8" fill="#EDE0D4" /><text x="551" y="38" fill="#4A3525">Vite</text>
+    <rect x="623" y="18" width="132" height="30" rx="8" fill="#D7B89C" /><text x="689" y="38" fill="#4A3525">Firebase</text>
+  </g>
+
+  <g font-family="Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="75" y="60" width="130" height="30" rx="8" fill="#B08968" /><text x="140" y="80" fill="#FFF8F0">Node.js</text>
+    <rect x="217" y="60" width="140" height="30" rx="8" fill="#8D6E63" /><text x="287" y="80" fill="#FFF8F0">PostgreSQL</text>
+    <rect x="369" y="60" width="130" height="30" rx="8" fill="#B08968" /><text x="434" y="80" fill="#FFF8F0">Supabase</text>
+    <rect x="511" y="60" width="130" height="30" rx="8" fill="#6F4E37" /><text x="576" y="80" fill="#FFF8F0">Gemini AI</text>
+    <rect x="653" y="60" width="122" height="30" rx="8" fill="#8D6E63" /><text x="714" y="80" fill="#FFF8F0">ESC/POS</text>
+  </g>
+
+  <g font-family="Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="195" y="102" width="140" height="30" rx="8" fill="#EDE0D4" stroke="#B08968" stroke-width="1" /><text x="265" y="122" fill="#4A3525">ESP32 / IoT</text>
+    <rect x="350" y="102" width="150" height="30" rx="8" fill="#D7B89C" /><text x="425" y="122" fill="#4A3525">OpenSCAD 3D</text>
+    <rect x="515" y="102" width="140" height="30" rx="8" fill="#EDE0D4" stroke="#B08968" stroke-width="1" /><text x="585" y="122" fill="#4A3525">MikroTik</text>
+  </g>
+</svg>
