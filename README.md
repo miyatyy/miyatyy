@@ -10,7 +10,7 @@ Hi, I'm **Nurmiyaty (Miya)** — a final-year **Information Technology** student
 
 - **Focus Areas:** Offline-First Mobile Apps, Hybrid AI (On-Device + Cloud), Full-Stack Web Systems, and ESP32 IoT Automation.
 - **Current Highlight:** Developing **Nusantara Hybrid POS**, a 5-role blackout-resilient POS ecosystem powered by Flutter, Gemini AI, Local LAN Server sync, and WhatsApp CRM.
-- **Live Portfolio:** [smart-riayah.vercel.app](https://smart-riayah.vercel.app)
+- **Live Portfolio:** soon
 
 ---
 
